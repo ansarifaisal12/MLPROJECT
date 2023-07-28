@@ -24,9 +24,10 @@ Python 3.6+
 Gradio (install using pip install gradio)
 Installation
 Clone this repository to your local machine:
-git clone https://github.com/your-username/iris-dataset-classifier.git
+git clone https://github.com/ansarifaisal12/mlproject.git
 cd iris-dataset-classifier
-
+# Demo
+You can find a live demo of this web application at https://40otxtddgsl-496ff2e9c6d22116-7860-colab.googleusercontent.com/ 
 # License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
