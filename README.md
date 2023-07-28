@@ -6,13 +6,13 @@ This repository contains code for a Machine Learning (ML) web application built 
 The web app uses a trained ML model to make predictions on new iris samples and displays the results to the users in an intuitive and user-friendly way.
 
 # Table of Contents
-Dataset
-Prerequisites
-Installation
-Usage
-Demo
-Contributing
-License
+ Dataset
+ Prerequisites
+ Installation
+ Usage
+ Demo
+ Contributing
+ License
 
 # Dataset
 The Iris dataset contains 150 samples of iris flowers, each with four features (sepal length, sepal width, petal length, and petal width) and a corresponding species label (setosa, versicolor, or virginica). The dataset is a classic and straightforward dataset, ideal for classification tasks and learning the basics of ML algorithms.
